@@ -28,7 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/photoshop/photoshop-original.svg" height="40" alt="photoshop logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="photoshop logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"  />
+   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cypressio/cypressio-original.svg" height="40" alt="cypress logo"  />
 </div>
 
 ###
