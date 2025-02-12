@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">I have a passion for creating functional solutions that solve problems and make people's lives easier. When I'm not working, I enjoy reading, traveling, and going to the gym.<br><br>My journey began with dabbling in graphic design, where I discovered my love for front-end development. This passion led me to pursue professional studies in front-end development at Noroff Higher Vocational College, starting in October 2022 while having a job on the side.</p>
-
-###
-
 <h2 align="left">My Tech Stack</h2>
 
 ###
